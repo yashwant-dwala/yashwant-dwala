@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web development,Game development part**
 
-- 📫 How to reach me **yashwan.19je0938@ece.iitism.ac.in**
+- 📫 How to reach me **yashwantdwala10@gmail.com**
 
 
 <div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwant-dwala&show_icons=true&locale=en" alt="yashwant-dwala" /></p>  </div>
