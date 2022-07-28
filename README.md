@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [InstaClone910](https://github.com/yashwant-dwala/InstaClone910)
 
-- 🌱 I’m currently learning **React,Angular,Php**
+- 🌱 I’m currently learning **React,flask,django,java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashwant-dwala](https://github.com/yashwant-dwala)
 
