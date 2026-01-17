@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwant-dwala" alt="yashwant-dwala" /></a> </p> -->
 
-- 🔭 I’m currently working on [InstaClone910](https://github.com/yashwant-dwala/InstaClone910)
+- 🔭 I’m currently working on project [DocQueryAI](https://github.com/yashwant-dwala/DocQueryAI.git)
 
 - 🌱 I’m currently learning **Language models and their applications, vector databases, rag models**
 
