@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [InstaClone910](https://github.com/yashwant-dwala/InstaClone910)
 
-- 🌱 I’m currently learning **React,flask,django,java**
+- 🌱 I’m currently learning **Language models and their applications, vector databases, rag models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashwant-dwala](https://github.com/yashwant-dwala)
 
-- 💬 Ask me about **Web development,Game development part**
+- 💬 Ask me about **Web development,Game development, System design, Language models and their applications**
 
 - 📫 How to reach me **yashwantdwala10@gmail.com**
 
